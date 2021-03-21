@@ -1,4 +1,4 @@
-# Project: NodeSDR - Data Store Module
+# Project: NodeSDR - Data Store Service
 
 <strong>Status:</strong> In development
 
@@ -8,8 +8,7 @@
 
 ## Overview
 
-This module provides communication between the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application and the data store. 
-The module is automatically imported when the <a href="https://github.com/barrygee/NodeSDR/blob/main/setup.sh">setup.sh</a> file is run within that project. 
+This service provides communication between the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application and the data store. 
 
 <br>
 
