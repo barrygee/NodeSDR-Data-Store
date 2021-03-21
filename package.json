@@ -1,7 +1,7 @@
 {
   "name": "nodesdr-data-store",
   "version": "1.0.0",
-  "description": "NodeSDR data store module. Provides communication between the NodeSDR application and the data store.",
+  "description": "NodeSDR data store service. Provides communication between the NodeSDR application and the data store.",
   "main": "app.js",
   "directories": {
     "test": "test"
